@@ -7,6 +7,12 @@ This project analyzes student-related factors and predicts the numerical exam sc
 Kaggle: **Student Performance Factors** by Lai Nguyen  
 Dataset page: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
+## Developed By
+1) Mohammad Ali Saleem
+2) Bhaskar Tiwari
+3) Anupam Singh
+4) Aryan Pandey
+
 Download `StudentPerformanceFactors.csv` from Kaggle and place it in the `data/` folder.
 
 ## Machine learning task
