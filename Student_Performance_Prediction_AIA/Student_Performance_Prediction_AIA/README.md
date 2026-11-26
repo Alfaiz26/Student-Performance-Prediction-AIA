@@ -3,6 +3,12 @@
 ## Project objective
 This project analyzes student-related factors and predicts the numerical exam score (`Exam_Score`) using machine learning.
 
+##Developed By
+1.) MOHAMMAD ALI SALEEM 
+2.) BHASKAR TIWARI
+3.) ANUPAM SINGH
+4.) ARYAN PANDEY
+
 ## Dataset
 Kaggle: **Student Performance Factors** by Lai Nguyen  
 Dataset page: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
