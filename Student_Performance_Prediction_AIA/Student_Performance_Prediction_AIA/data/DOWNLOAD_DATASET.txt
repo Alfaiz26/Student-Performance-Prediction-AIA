@@ -1,0 +1,3 @@
+Download the Kaggle dataset CSV and place it in this folder.
+Expected filename: StudentPerformanceFactors.csv
+Kaggle source: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
